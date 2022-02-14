@@ -1,6 +1,6 @@
 name: binance_spot
 description: Unofficial Dart wrapper for Binance SPOT API (REST endpoints + Websockets).
-version: 0.0.2
+version: 0.0.3
 publish_to: none
 
 environment:
